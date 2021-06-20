@@ -10,7 +10,7 @@ Using Tensorflow Java bindings to run the Attention OCR model in Java.
 #### Clone and extract JNI folder
 ```
 git clone https://github.com/wolf-hash/Attention-OCR-in-Java.git
-cd Tensorflow-Java-AOCR
+cd Attention-OCR-in-Java
 tar -zxvf jni.tar.gz
 ```
 **For Windows** Extract the jni.tar.gz manually into a folder named *jni*.
